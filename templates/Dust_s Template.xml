@@ -1,0 +1,8 @@
+<templateSet group="Dust's Template">
+  <template name="zz" value="/**&#10; *&#10; * @author Gong.Zhiqiang&#10; * @date $DATE$&#10; */&#10;" description="Desc" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
