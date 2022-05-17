@@ -13,12 +13,10 @@
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping pattern="phpunit.xml.dist" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="db" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="properties" approved="true" type="Properties" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
