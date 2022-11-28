@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/Desktop/drivers-virtual/driver-work-condition/docker-compose.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
   </component>
